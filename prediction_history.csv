@@ -1,0 +1,14 @@
+Date,Day,Season,Temperature,Humidity,Rainfall,Residents,Prediction
+2026-01-01,Monday,Summer,26.0,62.0,2.0,7,884.96
+2026-02-02,Monday,Summer,30.0,62.0,0.0,3,440.11
+2026-01-18,Saturday,Winter,24.0,57.0,7.0,2,285.71
+2026-08-06,Monday,Winter,66.0,88.0,77.0,0,214.86
+2026-08-15,Monday,Summer,12.0,56.0,45.0,3,376.02
+2026-08-03,Monday,Monsoon,15.0,26.0,45.0,5,642.85
+2026-08-03,Monday,Summer,23.0,45.0,30.0,4,525.09
+2026-08-04,Tuesday,Summer,10.0,55.0,20.0,1,145.69
+2026-08-10,Monday,Summer,15.0,2.0,20.0,4,514.98
+2026-09-28,Monday,Winter,23.0,55.0,5.0,7,897.66
+2026-09-28,Monday,Monsoon,30.0,7.0,10.0,5,674.35
+2026-09-29,Tuesday,Monsoon,20.0,63.0,15.0,7,866.09
+2026-09-29,Tuesday,Monsoon,12.0,6.0,5.0,1,158.08
