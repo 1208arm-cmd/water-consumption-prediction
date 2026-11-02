@@ -1,0 +1,8 @@
+Telegram Desktop/
+*.mp4
+*.mov
+*.avi
+__pycache__/
+.venv/
+venv/
+.env
