@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💧 Water Consumption Prediction
 
 A Machine Learning-based web application that predicts daily household water consumption using weather conditions and the number of residents. The project is built with **Python, Flask, Scikit-learn, Bootstrap 5, and Chart.js**.
@@ -231,3 +232,48 @@ Water Consumption Prediction using Machine Learning
 ## 📜 License
 
 This project is created for educational purposes and can be modified or extended for learning and research.
+=======
+# Network Traffic Classification
+
+## Project Description
+
+Network Traffic Classification is a Machine Learning project
+that classifies network traffic into different categories.
+
+## Traffic Categories
+
+- Web Browsing
+- Video Streaming
+- Online Gaming
+- File Transfer
+- Chat
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Random Forest
+
+## Machine Learning Process
+
+1. Load Dataset
+2. Data Preprocessing
+3. Train-Test Split
+4. Model Training
+5. Prediction
+6. Accuracy Evaluation
+7. Confusion Matrix
+
+## How to Run
+
+Install libraries:
+
+pip install -r requirements.txt
+
+Run the project:
+
+python network_traffic.py
+>>>>>>> 3a70c64f4eb275e72841fb7e2e53ba29acf8a0d6

@@ -1,0 +1,11 @@
+Packet_Size,Duration,Packets_Per_Second,Protocol,Traffic_Type
+500,10,50,6,Web Browsing
+1200,20,60,6,Video Streaming
+300,5,60,17,Online Gaming
+800,15,53,6,File Transfer
+450,8,56,17,Chat
+700,12,58,6,Web Browsing
+1500,25,60,6,Video Streaming
+250,4,62,17,Online Gaming
+900,18,50,6,File Transfer
+400,7,57,17,Chat
